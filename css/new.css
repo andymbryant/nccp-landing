@@ -34,3 +34,12 @@
 		margin-bottom: 0;
 	}
 }
+
+@media (max-width: 800px) {
+	.member-title {
+		font-size: 3rem;
+	}
+	.member-button {
+		font-size: .5rem;
+	}
+}
